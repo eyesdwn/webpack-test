@@ -1,6 +1,7 @@
 import users from "./users";
 import devices from "./devices";
 import projects from "./projects";
+import "./styles.css";
 
 const getUsersByProjectId = id => users.filter(elem => elem.projectId === id);
 const getDevicesByProjectId = id =>

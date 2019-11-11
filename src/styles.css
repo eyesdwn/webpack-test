@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    /* transform: translate(50%); */
+    background-color: rgb(154, 95, 160);
+    color: blue;
+}
