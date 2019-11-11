@@ -1,1 +1,1 @@
-# webpack
+# webpack basic config
